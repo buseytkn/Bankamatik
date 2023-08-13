@@ -1,0 +1,13 @@
+D:\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+D:\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+D:\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.AssemblyReference.cache
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.SuggestedBindingRedirects.cache
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form1.resources
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form2.resources
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form3.resources
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Properties.Resources.resources
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.GenerateResource.cache
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.CoreCompileInputs.cache
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+D:\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb
